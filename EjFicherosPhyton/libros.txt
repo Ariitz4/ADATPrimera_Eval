@@ -1,0 +1,2 @@
+{'nombre': 'La manzana', 'autor': 'Guille', 'precio': '45', 'descuento': '40', 'paginas': '100'}
+{'nombre': 'El dia', 'autor': ' Jeremy', 'precio': ' 18', 'descuento': '17,99', 'paginas': '130'}
